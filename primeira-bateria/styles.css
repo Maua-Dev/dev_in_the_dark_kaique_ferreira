@@ -13,3 +13,16 @@
   --yellow: #ffdf00;
   --blue: #002776;
 }
+
+.imagem{
+  align-items: center;
+  justify-content: center;
+}
+
+.verde {
+  background-color: #009c3b;
+}
+
+.amarelo {
+  background-color: #ffdf00;
+}
