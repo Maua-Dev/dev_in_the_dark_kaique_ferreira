@@ -12,3 +12,26 @@
   --red: #bf2626;
   --blue: #021f59;
 }
+
+.body{
+  background-color: azure;
+}
+
+.vermelho{
+  background-color: #bf2626;
+  display: flex;
+  height: 100px;
+  width: 100px;
+  justify-content: left;
+  border-radius: 20px;
+}
+
+.azul{
+  background-color: #021f59;
+  display: flex;
+  height: 100px;
+  width: 100px;
+  justify-content: right;
+  align-items: end;
+  border-radius: 20px;
+}
