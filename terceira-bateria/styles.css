@@ -12,3 +12,43 @@
   --purple: #a10aa4;
   --blue: #021f59;
 }
+
+.vs{
+  display: flex ;
+  height: 200px;
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
+.lula{
+  height: 400px;
+  width: 400px;
+}
+
+.rosa{
+  margin-top: 300px;
+  background-color: #a10aa4;
+  width: 200px;
+  height: 200px;
+  border-radius: 1000px;
+}
+
+.mine{
+  margin-left: 400px;
+  display: flex;
+  height: 400px;
+  width: 400px;
+  justify-content: end;
+  align-items: end;
+  z-index: 1000px;
+}
+
+.azul{
+  margin-top: 500px;
+  margin-left: 900px;
+  background-color: #021f59;
+  width: 200px;
+  height: 200px;
+  border-radius: 1000px;
+}
